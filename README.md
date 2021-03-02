@@ -2,7 +2,7 @@
 # FUPLOAD Generator 
 ## What is it?
 
-Fupload Generator provides a graphical interface to convert an excel spreadsheet (input file)  to the apropriate format for a "fupload" into Banner SIS.  The program will validate the input and output files.  Instructions are seen when the script is run.
+Fupload Generator provides a graphical interface to convert an excel spreadsheet (input file) to the apropriate format for a "fupload" into Banner SIS.  The program will validate the input and output files.  I designed the program for a specific university (you'll see our logo on the application) but it should work for any college that uses Banner SIS and needs to convert data for 'fupload'.   
 
 ## How do I use it?
 
@@ -16,4 +16,4 @@ You'll need a windows machine running powershell 4 or newer (any windows 10 mach
 -Go to the action tab and click "create fupload file" and follow the prompts.  If the button is greyed out you need to make sure you specified an input file in the input tab. 
 
 ## More info:
-The base64 code in this script is an embedded image, It could trigger malware software or windows defender.  If so, make an exception in windows defender or your antimalware software for the script.  You can find good guides online, just search.  
+The base64 code in this script is an embedded image (it's the background picture), It could trigger your malware software or windows defender.  If so, make an exception in windows defender or your antimalware software for the script. You can find good guides online, just search.  If you dont trust the base64, (I dont blame you) just comment it out and carry on without the background image. 
