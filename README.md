@@ -8,7 +8,7 @@ Fupload Generator provides a graphical interface to convert an excel spreadsheet
 
 You'll need a windows machine running powershell 4 or newer (any windows 10 machine should do the trick).
 
-+Download and populate the Input File Template
+--Download and populate the Input File Template
 +download the .ps1 file
 +open and run the .ps1 file ('open with' powershell ise and hit the play button if you're a newbie)
 +when the program opens you will see the data input tab, first select the input file on the  you populated earlier, the program will check for mistakes
