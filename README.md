@@ -12,7 +12,7 @@ You'll need a windows machine running powershell 4 or newer (any windows 10 mach
 * Download the .ps1 file
 * Open and run the .ps1 file ('open with' powershell ise and hit the play button if you're a newbie)
 * When the program opens you will see the data input tab, first select the input file on the  you populated earlier, the program will check for mistakes
-* Fill out the remaining fields on the data input tab, if you don't the default values you see will be written to the output file.
+* Fill out the remaining fields on the data input tab; if you don't, the default values you see will be written to the output file.
 * Go to the action tab and click "create fupload file" and follow the prompts.  If the button is greyed out you need to make sure you specified an input file in the input tab. 
 
 ## More info:
